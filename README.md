@@ -1,2 +1,2 @@
-# GitStudy
-git学习
+# Git进阶指南
+
